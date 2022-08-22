@@ -27,3 +27,7 @@ button{
     padding: 5px;
     border-radius: 5px;
 }
+#message-el{
+    color:aqua;
+    font-size: 30px;
+}
